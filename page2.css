@@ -1,0 +1,16 @@
+
+
+html{
+	overflow: hidden;
+	border-image: url(Aerial07.jpg)
+	height:100%;
+	width: 100%;
+	color: white;
+
+}
+img{
+	vertical-align: right;
+	border-image: black;
+
+
+}

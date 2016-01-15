@@ -37,14 +37,14 @@ a{
 }
 h1{
 	text-align: center;
-	font-size: 25pt;
+	font-size: 43pt;
 }
 
 
 ul{
 	font-color:White;
 	font-style: italic;
-	font-size: 32pt;
+	font-size: 43pt;
 	float: right;
 	clear:none;
 }
@@ -64,3 +64,6 @@ li{
 }
 
 
+p{
+	font-size: 25pt;
+}
